@@ -1,0 +1,65 @@
+C:\Users\zlaas\source\repos\KURSOVAYA\bin\Debug\KURSOVAYA.exe.config
+C:\Users\zlaas\source\repos\KURSOVAYA\bin\Debug\KURSOVAYA.exe
+C:\Users\zlaas\source\repos\KURSOVAYA\bin\Debug\KURSOVAYA.pdb
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.csproj.AssemblyReference.cache
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.csproj.SuggestedBindingRedirects.cache
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.Login.resources
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.splash.resources
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.Properties.Resources.resources
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.csproj.GenerateResource.cache
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.exe
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.pdb
+C:\Users\zlaas\source\repos\KURSOVAYA\obj\Debug\KURSOVAYA.Bus.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\bin\Debug\KURSOVAYA.exe.config
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\bin\Debug\KURSOVAYA.exe
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\bin\Debug\KURSOVAYA.pdb
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.AssemblyReference.cache
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Login.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Properties.Resources.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.GenerateResource.cache
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.CoreCompileInputs.cache
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.exe
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.pdb
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Reisy.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Passahir.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Voditel.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Avtobus.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Bilet.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\bin\Debug\Guna.UI2.dll
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.CopyComplete
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emMainForm.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Sotrydniki.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emReisy.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emVoditel.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emPasahir.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\bin\Debug\QRCoder.dll
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emAvtobus.resources
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emBilet.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.AssemblyReference.cache
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.SuggestedBindingRedirects.cache
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.exe
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.pdb
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\bin\Debug\KURSOVAYA.exe.config
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\bin\Debug\KURSOVAYA.exe
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\bin\Debug\KURSOVAYA.pdb
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\bin\Debug\Guna.UI2.dll
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\bin\Debug\QRCoder.dll
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Avtobus.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Bilet.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emAvtobus.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emBilet.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emMainForm.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emPasahir.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emReisy.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.emVoditel.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Login.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Properties.Resources.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Reisy.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Passahir.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Sotrydniki.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.Voditel.resources
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.GenerateResource.cache
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.CoreCompileInputs.cache
+C:\Users\zlaas\OneDrive\Рабочий стол\работа\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.csproj.CopyComplete
+M:\Лабы\jenia\КУРСОВАЯ НАХУЙ\obj\Debug\KURSOVAYA.gost.resources
